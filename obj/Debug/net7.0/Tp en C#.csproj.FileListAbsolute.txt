@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\bin\Debug\net7.0\Tp en C#.exe
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\bin\Debug\net7.0\Tp en C#.deps.json
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\bin\Debug\net7.0\Tp en C#.runtimeconfig.json
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\bin\Debug\net7.0\Tp en C#.dll
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\bin\Debug\net7.0\Tp en C#.pdb
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.dll
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\refint\Tp en C#.dll
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.pdb
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\Tp en C#.genruntimeconfig.cache
+C:\Users\Pc\Desktop\Uni\Metodologias De Programacion II\Tp en C#\obj\Debug\net7.0\ref\Tp en C#.dll
